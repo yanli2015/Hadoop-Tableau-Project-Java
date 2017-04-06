@@ -1,6 +1,5 @@
 
-
-	import java.io.IOException;
+import java.io.IOException;
 
 import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.IntWritable;
